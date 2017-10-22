@@ -1,0 +1,26 @@
+.formulario{
+    margin-top:40px;
+ 
+    background-color:rgb(24, 131, 158);
+    box-shadow: 12px 12px 23px;
+    border-radius: 12px;
+}
+.form-group{
+    margin-top:30px;
+}
+
+input{
+    border:none;
+    background-color:transparent;
+    border-bottom:2px dotted white;
+    color:black;
+    font-size: 1.2em;
+
+}
+input[type="submit"]{
+    border: 2px dotted white;
+      
+}
+.captcha{
+    margin-left:-7%;
+}
